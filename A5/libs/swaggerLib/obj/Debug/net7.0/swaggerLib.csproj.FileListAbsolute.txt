@@ -1,0 +1,12 @@
+C:\uni\term2\AP\project\ToDoApp\A5\libs\swaggerLib\bin\Debug\net7.0\swaggerLib.deps.json
+C:\uni\term2\AP\project\ToDoApp\A5\libs\swaggerLib\bin\Debug\net7.0\swaggerLib.dll
+C:\uni\term2\AP\project\ToDoApp\A5\libs\swaggerLib\bin\Debug\net7.0\swaggerLib.pdb
+C:\uni\term2\AP\project\ToDoApp\A5\libs\swaggerLib\obj\Debug\net7.0\swaggerLib.csproj.AssemblyReference.cache
+C:\uni\term2\AP\project\ToDoApp\A5\libs\swaggerLib\obj\Debug\net7.0\swaggerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\term2\AP\project\ToDoApp\A5\libs\swaggerLib\obj\Debug\net7.0\swaggerLib.AssemblyInfoInputs.cache
+C:\uni\term2\AP\project\ToDoApp\A5\libs\swaggerLib\obj\Debug\net7.0\swaggerLib.AssemblyInfo.cs
+C:\uni\term2\AP\project\ToDoApp\A5\libs\swaggerLib\obj\Debug\net7.0\swaggerLib.csproj.CoreCompileInputs.cache
+C:\uni\term2\AP\project\ToDoApp\A5\libs\swaggerLib\obj\Debug\net7.0\swaggerLib.dll
+C:\uni\term2\AP\project\ToDoApp\A5\libs\swaggerLib\obj\Debug\net7.0\refint\swaggerLib.dll
+C:\uni\term2\AP\project\ToDoApp\A5\libs\swaggerLib\obj\Debug\net7.0\swaggerLib.pdb
+C:\uni\term2\AP\project\ToDoApp\A5\libs\swaggerLib\obj\Debug\net7.0\ref\swaggerLib.dll

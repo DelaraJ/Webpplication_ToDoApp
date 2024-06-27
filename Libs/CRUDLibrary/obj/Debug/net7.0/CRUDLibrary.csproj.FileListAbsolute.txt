@@ -1,0 +1,14 @@
+C:\uni\term2\AP\project\ToDoApp\Libs\CRUDLibrary\bin\Debug\net7.0\CRUDLibrary.deps.json
+C:\uni\term2\AP\project\ToDoApp\Libs\CRUDLibrary\bin\Debug\net7.0\CRUDLibrary.dll
+C:\uni\term2\AP\project\ToDoApp\Libs\CRUDLibrary\bin\Debug\net7.0\CRUDLibrary.pdb
+C:\uni\term2\AP\project\ToDoApp\Libs\CRUDLibrary\obj\Debug\net7.0\CRUDLibrary.csproj.AssemblyReference.cache
+C:\uni\term2\AP\project\ToDoApp\Libs\CRUDLibrary\obj\Debug\net7.0\CRUDLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\term2\AP\project\ToDoApp\Libs\CRUDLibrary\obj\Debug\net7.0\CRUDLibrary.AssemblyInfoInputs.cache
+C:\uni\term2\AP\project\ToDoApp\Libs\CRUDLibrary\obj\Debug\net7.0\CRUDLibrary.AssemblyInfo.cs
+C:\uni\term2\AP\project\ToDoApp\Libs\CRUDLibrary\obj\Debug\net7.0\CRUDLibrary.csproj.CoreCompileInputs.cache
+C:\uni\term2\AP\project\ToDoApp\Libs\CRUDLibrary\obj\Debug\net7.0\CRUDLibrary.dll
+C:\uni\term2\AP\project\ToDoApp\Libs\CRUDLibrary\obj\Debug\net7.0\refint\CRUDLibrary.dll
+C:\uni\term2\AP\project\ToDoApp\Libs\CRUDLibrary\obj\Debug\net7.0\CRUDLibrary.pdb
+C:\uni\term2\AP\project\ToDoApp\Libs\CRUDLibrary\obj\Debug\net7.0\ref\CRUDLibrary.dll
+C:\uni\term2\AP\project\ToDoApp\Libs\CRUDLibrary\bin\Debug\net7.0\CRUDLibrary.runtimeconfig.json
+C:\uni\term2\AP\project\ToDoApp\Libs\CRUDLibrary\obj\Debug\net7.0\CRUDLibrary.genruntimeconfig.cache

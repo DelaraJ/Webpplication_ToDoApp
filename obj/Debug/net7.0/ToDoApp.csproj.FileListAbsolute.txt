@@ -1,0 +1,5 @@
+C:\uni\term2\AP\project\ToDoApp\obj\Debug\net7.0\ToDoApp.csproj.AssemblyReference.cache
+C:\uni\term2\AP\project\ToDoApp\obj\Debug\net7.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\term2\AP\project\ToDoApp\obj\Debug\net7.0\ToDoApp.AssemblyInfoInputs.cache
+C:\uni\term2\AP\project\ToDoApp\obj\Debug\net7.0\ToDoApp.AssemblyInfo.cs
+C:\uni\term2\AP\project\ToDoApp\obj\Debug\net7.0\ToDoApp.csproj.CoreCompileInputs.cache

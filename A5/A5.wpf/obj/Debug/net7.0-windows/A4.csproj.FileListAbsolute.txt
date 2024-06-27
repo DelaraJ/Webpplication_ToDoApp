@@ -1,0 +1,261 @@
+C:\uni\term 2\AP\LearnWPF\A4\A4\bin\Debug\net7.0-windows\A3.deps.json
+C:\uni\term 2\AP\LearnWPF\A4\A4\bin\Debug\net7.0-windows\A3.runtimeconfig.json
+C:\uni\term 2\AP\LearnWPF\A4\A4\bin\Debug\net7.0-windows\A3.exe
+C:\uni\term 2\AP\LearnWPF\A4\A4\bin\Debug\net7.0-windows\A4.exe
+C:\uni\term 2\AP\LearnWPF\A4\A4\bin\Debug\net7.0-windows\A4.deps.json
+C:\uni\term 2\AP\LearnWPF\A4\A4\bin\Debug\net7.0-windows\A4.runtimeconfig.json
+C:\uni\term 2\AP\LearnWPF\A4\A4\bin\Debug\net7.0-windows\A4.dll
+C:\uni\term 2\AP\LearnWPF\A4\A4\bin\Debug\net7.0-windows\A4.pdb
+C:\uni\term 2\AP\LearnWPF\A4\A4\bin\Debug\net7.0-windows\A3.dll
+C:\uni\term 2\AP\LearnWPF\A4\A4\bin\Debug\net7.0-windows\A3.pdb
+C:\uni\term 2\AP\LearnWPF\A4\A4\obj\Debug\net7.0-windows\A4.csproj.AssemblyReference.cache
+C:\uni\term 2\AP\LearnWPF\A4\A4\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\uni\term 2\AP\LearnWPF\A4\A4\obj\Debug\net7.0-windows\View\UserControls\ClreableTextBox.g.cs
+C:\uni\term 2\AP\LearnWPF\A4\A4\obj\Debug\net7.0-windows\App.g.cs
+C:\uni\term 2\AP\LearnWPF\A4\A4\obj\Debug\net7.0-windows\A4_MarkupCompile.cache
+C:\uni\term 2\AP\LearnWPF\A4\A4\obj\Debug\net7.0-windows\A4_MarkupCompile.lref
+C:\uni\term 2\AP\LearnWPF\A4\A4\obj\Debug\net7.0-windows\MainWindow.baml
+C:\uni\term 2\AP\LearnWPF\A4\A4\obj\Debug\net7.0-windows\View\UserControls\ClreableTextBox.baml
+C:\uni\term 2\AP\LearnWPF\A4\A4\obj\Debug\net7.0-windows\A4.g.resources
+C:\uni\term 2\AP\LearnWPF\A4\A4\obj\Debug\net7.0-windows\A4.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\term 2\AP\LearnWPF\A4\A4\obj\Debug\net7.0-windows\A4.AssemblyInfoInputs.cache
+C:\uni\term 2\AP\LearnWPF\A4\A4\obj\Debug\net7.0-windows\A4.AssemblyInfo.cs
+C:\uni\term 2\AP\LearnWPF\A4\A4\obj\Debug\net7.0-windows\A4.csproj.CoreCompileInputs.cache
+C:\uni\term 2\AP\LearnWPF\A4\A4\obj\Debug\net7.0-windows\A4.csproj.CopyComplete
+C:\uni\term 2\AP\LearnWPF\A4\A4\obj\Debug\net7.0-windows\A4.dll
+C:\uni\term 2\AP\LearnWPF\A4\A4\obj\Debug\net7.0-windows\refint\A4.dll
+C:\uni\term 2\AP\LearnWPF\A4\A4\obj\Debug\net7.0-windows\A4.pdb
+C:\uni\term 2\AP\LearnWPF\A4\A4\obj\Debug\net7.0-windows\A4.genruntimeconfig.cache
+C:\uni\term 2\AP\LearnWPF\A4\A4\obj\Debug\net7.0-windows\ref\A4.dll
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\bin\Debug\net7.0-windows\A3.deps.json
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\bin\Debug\net7.0-windows\A3.runtimeconfig.json
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\bin\Debug\net7.0-windows\A3.exe
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\bin\Debug\net7.0-windows\A4.exe
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\bin\Debug\net7.0-windows\A4.deps.json
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\bin\Debug\net7.0-windows\A4.runtimeconfig.json
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\bin\Debug\net7.0-windows\A4.dll
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\bin\Debug\net7.0-windows\A4.pdb
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\bin\Debug\net7.0-windows\A3.dll
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\bin\Debug\net7.0-windows\A3.pdb
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\A4.csproj.AssemblyReference.cache
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\View\AddWindow.g.cs
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\View\UserControls\ClreableTextBox.g.cs
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\App.g.cs
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\A4_MarkupCompile.cache
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\A4_MarkupCompile.lref
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\MainWindow.baml
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\View\AddWindow.baml
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\View\UserControls\ClreableTextBox.baml
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\A4.g.resources
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\A4.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\A4.AssemblyInfoInputs.cache
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\A4.AssemblyInfo.cs
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\A4.csproj.CoreCompileInputs.cache
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\A4.csproj.CopyComplete
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\A4.dll
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\refint\A4.dll
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\A4.pdb
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\A4.genruntimeconfig.cache
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\ref\A4.dll
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\View\EditWindow.g.cs
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\View\EditWindow.baml
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\View\SortWindow.g.cs
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\View\SortWindow.baml
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\View\SearchWindow.g.cs
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\View\SearchWindow.baml
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\View\ShowWindow.g.cs
+C:\uni\term 2\AP\LearnWPF\A4 - Copy\A4\obj\Debug\net7.0-windows\View\ShowWindow.baml
+C:\uni\term 2\AP\A5\A5.wpf\bin\Debug\net7.0-windows\A3.deps.json
+C:\uni\term 2\AP\A5\A5.wpf\bin\Debug\net7.0-windows\A3.runtimeconfig.json
+C:\uni\term 2\AP\A5\A5.wpf\bin\Debug\net7.0-windows\A3.exe
+C:\uni\term 2\AP\A5\A5.wpf\bin\Debug\net7.0-windows\A4.exe
+C:\uni\term 2\AP\A5\A5.wpf\bin\Debug\net7.0-windows\A4.deps.json
+C:\uni\term 2\AP\A5\A5.wpf\bin\Debug\net7.0-windows\A4.runtimeconfig.json
+C:\uni\term 2\AP\A5\A5.wpf\bin\Debug\net7.0-windows\A4.dll
+C:\uni\term 2\AP\A5\A5.wpf\bin\Debug\net7.0-windows\A4.pdb
+C:\uni\term 2\AP\A5\A5.wpf\bin\Debug\net7.0-windows\A3.dll
+C:\uni\term 2\AP\A5\A5.wpf\bin\Debug\net7.0-windows\A3.pdb
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\A4.csproj.AssemblyReference.cache
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\View\AddWindow.g.cs
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\View\EditWindow.g.cs
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\View\SearchWindow.g.cs
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\View\ShowWindow.g.cs
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\View\SortWindow.g.cs
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\View\UserControls\ClreableTextBox.g.cs
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\App.g.cs
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\A4_MarkupCompile.cache
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\A4_MarkupCompile.lref
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\MainWindow.baml
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\View\AddWindow.baml
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\View\EditWindow.baml
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\View\SearchWindow.baml
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\View\ShowWindow.baml
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\View\SortWindow.baml
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\View\UserControls\ClreableTextBox.baml
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\A4.g.resources
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\A4.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\A4.AssemblyInfoInputs.cache
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\A4.AssemblyInfo.cs
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\A4.csproj.CoreCompileInputs.cache
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\A4.csproj.CopyComplete
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\A4.dll
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\refint\A4.dll
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\A4.pdb
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\A4.genruntimeconfig.cache
+C:\uni\term 2\AP\A5\A5.wpf\obj\Debug\net7.0-windows\ref\A4.dll
+C:\uni\term 2\AP\A5\A5.wpf\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\uni\term 2\AP\A5\A5.wpf\bin\Debug\net7.0-windows\DynamicData.dll
+C:\uni\term 2\AP\A5\A5.wpf\bin\Debug\net7.0-windows\ReactiveUI.dll
+C:\uni\term 2\AP\A5\A5.wpf\bin\Debug\net7.0-windows\Splat.dll
+C:\uni\term 2\AP\A5\A5.wpf\bin\Debug\net7.0-windows\System.Reactive.dll
+C:\uni\term 2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\A3.deps.json
+C:\uni\term 2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\A3.runtimeconfig.json
+C:\uni\term 2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\A3.exe
+C:\uni\term 2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\A4.exe
+C:\uni\term 2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\A4.deps.json
+C:\uni\term 2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\A4.runtimeconfig.json
+C:\uni\term 2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\A4.dll
+C:\uni\term 2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\A4.pdb
+C:\uni\term 2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\uni\term 2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\DynamicData.dll
+C:\uni\term 2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\ReactiveUI.dll
+C:\uni\term 2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\Splat.dll
+C:\uni\term 2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\System.Reactive.dll
+C:\uni\term 2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\A3.dll
+C:\uni\term 2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\A3.pdb
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4.csproj.AssemblyReference.cache
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\AddWindow.g.cs
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\EditWindow.g.cs
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\SearchWindow.g.cs
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\ShowWindow.g.cs
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\SortWindow.g.cs
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\UserControls\ClreableTextBox.g.cs
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\App.g.cs
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4_MarkupCompile.cache
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4_MarkupCompile.lref
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\MainWindow.baml
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\AddWindow.baml
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\EditWindow.baml
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\SearchWindow.baml
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\ShowWindow.baml
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\SortWindow.baml
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\UserControls\ClreableTextBox.baml
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4.g.resources
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4.AssemblyInfoInputs.cache
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4.AssemblyInfo.cs
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4.csproj.CoreCompileInputs.cache
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4.csproj.CopyComplete
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4.dll
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\refint\A4.dll
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4.pdb
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4.genruntimeconfig.cache
+C:\uni\term 2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\ref\A4.dll
+C:\uni\term2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\A3.deps.json
+C:\uni\term2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\A3.runtimeconfig.json
+C:\uni\term2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\A3.exe
+C:\uni\term2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\A4.exe
+C:\uni\term2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\A4.deps.json
+C:\uni\term2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\A4.runtimeconfig.json
+C:\uni\term2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\A4.dll
+C:\uni\term2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\A4.pdb
+C:\uni\term2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\uni\term2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\DynamicData.dll
+C:\uni\term2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\ReactiveUI.dll
+C:\uni\term2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\Splat.dll
+C:\uni\term2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\System.Reactive.dll
+C:\uni\term2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\A3.dll
+C:\uni\term2\AP\A5\A5\A5.wpf\bin\Debug\net7.0-windows\A3.pdb
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4.csproj.AssemblyReference.cache
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\AddWindow.g.cs
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\EditWindow.g.cs
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\SearchWindow.g.cs
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\ShowWindow.g.cs
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\SortWindow.g.cs
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\UserControls\ClreableTextBox.g.cs
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\App.g.cs
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4_MarkupCompile.cache
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4_MarkupCompile.lref
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\MainWindow.baml
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\AddWindow.baml
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\EditWindow.baml
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\SearchWindow.baml
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\ShowWindow.baml
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\SortWindow.baml
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\View\UserControls\ClreableTextBox.baml
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4.g.resources
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4.AssemblyInfoInputs.cache
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4.AssemblyInfo.cs
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4.csproj.CoreCompileInputs.cache
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4.csproj.CopyComplete
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4.dll
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\refint\A4.dll
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4.pdb
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\A4.genruntimeconfig.cache
+C:\uni\term2\AP\A5\A5\A5.wpf\obj\Debug\net7.0-windows\ref\A4.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\A4.csproj.AssemblyReference.cache
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\View\AddWindow.g.cs
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\View\EditWindow.g.cs
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\View\SearchWindow.g.cs
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\View\ShowWindow.g.cs
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\View\SortWindow.g.cs
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\View\UserControls\ClreableTextBox.g.cs
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\App.g.cs
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\A4_MarkupCompile.cache
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\A4_MarkupCompile.lref
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\A4.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\refint\A4.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\A4.pdb
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\A4.exe
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\A4.deps.json
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\A4.runtimeconfig.json
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\A4.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\A4.pdb
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\DynamicData.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\Microsoft.Extensions.Features.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\ReactiveUI.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\Splat.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\System.IO.Pipelines.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\System.Reactive.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\MainWindow.baml
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\View\AddWindow.baml
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\View\EditWindow.baml
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\View\SearchWindow.baml
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\View\ShowWindow.baml
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\View\SortWindow.baml
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\View\UserControls\ClreableTextBox.baml
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\A4.g.resources
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\A4.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\A4.AssemblyInfoInputs.cache
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\A4.AssemblyInfo.cs
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\A4.csproj.CoreCompileInputs.cache
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\A4.csproj.CopyComplete
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\A4.genruntimeconfig.cache
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\ref\A4.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\swaggerLib.dll
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\bin\Debug\net7.0-windows\swaggerLib.pdb
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\View\AI.g.cs
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\View\AI.baml
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\View\AIBreakTaskWindow.g.cs
+C:\uni\term2\AP\project\ToDoApp\A5\A5.wpf\obj\Debug\net7.0-windows\View\AIBreakTaskWindow.baml

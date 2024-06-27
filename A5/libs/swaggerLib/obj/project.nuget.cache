@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gP7Fe+OWFhhp7eP2foUtOzMnyAb0/ISvFCAJ5SZYVkqoPqdQkmSnwD1UnSbX8nQnTI2zZQbkuHg8BmQ1K2ChsA==",
+  "success": true,
+  "projectFilePath": "C:\\uni\\term2\\AP\\project\\ToDoApp\\A5\\libs\\swaggerLib\\swaggerLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.extensions.apidescription.client\\0.3.0-preview7.19365.7\\microsoft.extensions.apidescription.client.0.3.0-preview7.19365.7.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\nswag.apidescription.client\\13.0.5\\nswag.apidescription.client.13.0.5.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\nswag.msbuild\\13.0.5\\nswag.msbuild.13.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

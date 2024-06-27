@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="View\AddWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AI.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AIBreakTaskWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\EditWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\SearchWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ShowWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\SortWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\UserControls\ClreableTextBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="View\AddWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AI.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AIBreakTaskWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\EditWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\SearchWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ShowWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\SortWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\UserControls\ClreableTextBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
